@@ -89,7 +89,7 @@ func main() {
 ### Example 1: Full URL with HTTPS
 
 ```plaintext
-https://example.com/api/v1/resource?key=value&token=12345#section1
+https://user:password@example.com/api/v1/resource?key=value&token=12345#section1
 ```
 
 ### Example 2: Localhost with Custom Port
