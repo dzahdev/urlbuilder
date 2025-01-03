@@ -1,1 +1,1 @@
-module urlBuilder
+module github.com/dzahdev/urlbuilder

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/your-repo/urlbuilder"
+	"github.com/dzahdev/urlbuilder"
 )
 
 func main() {
